@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn[standard]
+pypdf
+python-docx
+google-auth
+requests
+python-multipart
+sentence-transformers
+httpx
+pytest
+sqlalchemy
+truststore
+python-dotenv
